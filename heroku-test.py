@@ -3,4 +3,3 @@ def heroku_test():
 
 
 heroku_test()
-heroku_test()
